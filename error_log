@@ -1,0 +1,2 @@
+[11-Dec-2017 20:27:25 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 3072 bytes) in /home/helenahassiktkhk/public_html/wordpress/wp-content/plugins/jetpack/json-endpoints.php on line 31
+[11-Dec-2017 20:27:30 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 12288 bytes) in /home/helenahassiktkhk/public_html/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-term-endpoint.php on line 45
