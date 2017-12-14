@@ -10,6 +10,8 @@
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
+<!-- . Siia lisan võtmesõnad -->
+<meta name="keywords" content="blog,learning wp">
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
